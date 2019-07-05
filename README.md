@@ -1,2 +1,2 @@
-# spotify2017-bootstrap
-Projeto inicial Spotify 2017 usando HTML, CSS e Bootstrap.
+# Recriação da página inicial do Spotify (2017)
+Foi usado HTML, CSS e Bootstrap.
